@@ -51,6 +51,7 @@ header nav a.active{
 	font-size: 68px;
 	font-weight: normal;
 	line-height: 1.2;
+	color:#fed136; 
 }
 #home .social a{
 	color: white;
